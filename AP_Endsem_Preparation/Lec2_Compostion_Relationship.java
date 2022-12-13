@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class Compostion_Relationship {
+public class Lec2_Compostion_Relationship {
     public static void main(String[] args) {
         A a = new A();
         System.out.println(a.i.j);

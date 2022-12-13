@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class static_initializer {
+public class Lec3_static_initializer {
     public static void main(String[] args) {
         System.out.println(Test.i);
     }

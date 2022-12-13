@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class Abstract_Interfaces {
+public class Lec6_Abstract_Interfaces {
     public static void main(String[] args) {
         Parent2 b = new abstract_child1();
         Parent2 c = new abstract_child2();

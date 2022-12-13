@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class Inheritance {
+public class Lec5_Inheritance {
     public static void main(String[] args) {
         Dog germanShephered = new Dog();
         germanShephered.name = "GS";

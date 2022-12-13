@@ -19,7 +19,7 @@ There are two ways to overload the method in java
 2. By changing the data type of arguments
  */
 
-public class polymorphism {
+public class Lec4_polymorphism {
     public static void main(String args[]){
 
         parent p= new parent();

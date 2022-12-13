@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class IntroToObjectClass {
+public class Lec7_IntroToObjectClass {
     public static void main(String[] args) {
         Main2 m2  = new Main2();
         Main2 m3 = new Main2();

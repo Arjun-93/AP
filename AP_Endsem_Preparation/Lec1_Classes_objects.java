@@ -1,6 +1,6 @@
 package AP_Endsem_Preparation;
 
-public class Classes_objects {
+public class Lec1_Classes_objects {
     public static void main(String[] args) {
         Main m1 = new Main(1,2);
         m1.print();
