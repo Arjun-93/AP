@@ -1,0 +1,376 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\lib\idea_rt.jar=62128:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\arjun\IdeaProjects\CWH_java\out\production\CWH_java company.ass2
+
+WELCOME TO FLIPZON
+	1) Enter as Admin
+	2) Explore the Product Catalog
+	3) Show Available Deals
+	4) Enter as Customer
+	5) Exit the Application
+
+1
+
+Dear Admin,
+Please enter your username and password
+
+	Enter Username: ArjunMehra
+	Enter Password: 2020178
+
+Welcome ArjunMehra!!!!!
+
+Please choose any one of the following actions:
+	1) Add category
+	2) Delete category
+	3) Add Product
+	4) Delete Product
+	5) Set Discount on Product
+	6) Add giveaway deal
+	7) Back
+
+1
+
+Add Category ID: 1
+Add name of the Category:Home Appliances
+
+Add a Product -->
+	Product Name: tv
+	Product ID: 1.1
+	Capacity: 4
+	Power Consumption: 5
+	Price: 8400
+	Product Added Successfully
+
+Please choose any one of the following actions:
+	1) Add category
+	2) Delete category
+	3) Add Product
+	4) Delete Product
+	5) Set Discount on Product
+	6) Add giveaway deal
+	7) Back
+
+1
+
+Add Category ID: 1
+Add name of the Category:Home Appliances
+
+Add a Product -->
+	Product Name: sdv
+	Product ID: 1.2
+	Capacity: 4
+	Power Consumption: 8
+	Price: 6568
+	Product Added Successfully
+
+Please choose any one of the following actions:
+	1) Add category
+	2) Delete category
+	3) Add Product
+	4) Delete Product
+	5) Set Discount on Product
+	6) Add giveaway deal
+	7) Back
+
+6
+
+Dear Admin give the product IDS you want to combine and giveaway deal for
+	Enter the first product ID: 1.1
+	Enter the second product ID: 1.2
+	Enter the combined price(Should be less than their combined price: 10000
+Deal Successfully added!! 
+
+Please choose any one of the following actions:
+	1) Add category
+	2) Delete category
+	3) Add Product
+	4) Delete Product
+	5) Set Discount on Product
+	6) Add giveaway deal
+	7) Back
+
+5
+Dear Admin give the Product ID you want to add discount for
+Enter the Product ID :
+
+1.1
+
+Enter discount for Elite, Prime and Normal customers respectively (in % terms)
+	Normal customers discount: 0
+	Elite customers discount: 2
+	Prime customers discount: 5
+Discount successfully added
+
+Please choose any one of the following actions:
+	1) Add category
+	2) Delete category
+	3) Add Product
+	4) Delete Product
+	5) Set Discount on Product
+	6) Add giveaway deal
+	7) Back
+
+7
+
+WELCOME TO FLIPZON
+	1) Enter as Admin
+	2) Explore the Product Catalog
+	3) Show Available Deals
+	4) Enter as Customer
+	5) Exit the Application
+
+4
+
+1) Sign up
+2) Log in
+3) Back
+
+1
+
+Enter Name: arjun
+Enter Password: arjun
+Enter age: 14
+EnterEmail ID: sdsdacasdc
+Enter Phone Number: 6415865451
+Customer Successfully registered
+1) Sign up
+2) Log in
+3) Back
+
+2
+
+Enter Name: arjun
+Enter Password: arjun
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+1
+
+Product Name: tv
+Product ID: 1.1
+Capacity: 4.0
+Power Consumption: 5.0
+Price: 8400.0
+
+
+
+Product Name: sdv
+Product ID: 1.2
+Capacity: 4.0
+Power Consumption: 8.0
+Price: 6568.0
+
+
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+2
+
+Deal of productID 
+Product ID: 1.1
+Product name: tv 
+Product Price: 8400.0 and product ID 
+Product ID: 1.2
+Product name: sdv 
+Product Price: 6568.0
+ Giveway deal amount is: 10000.0
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+4
+
+Deal here
+~ Deal Successfully added to cart
+
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+5
+You don' have any coupon
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+11
+
+Enter Amount to add: 
+100000
+Amount Scuccessfully added
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+6
+Current account balance in Rupees 101000.0
+
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+7
+
+Product ID: 1.1
+Product name: tv 
+Product Price: 8400.0
+
+Product ID: 1.2
+Product name: sdv 
+Product Price: 6568.0
+
+Amount: 10000.0
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+10
+Current Status: Normal
+	Choose new Status: Prime
+Status updated to Prime
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+9
+Proceeding to checkout details: 
+
+Product ID: 1.1
+Product name: tv 
+Product Price: 8400.0
+
+Product ID: 1.2
+Product name: sdv 
+Product Price: 6568.0
+Delivery charges: 100 + 0% of 10000.0 = 100 + 0.0 = Rs 100.0
+Discounted :5.0% of 8400.0=420.0
+Discounted :0.0% of 6568.0=0.0
+Final amount RS9680.0
+
+Welcome arjun!!!
+	1) browse products
+	2) browse deals
+	3) add a product to cart
+	4) add products in deal to cart
+	5) view coupons
+	6) check account balance
+	7) view cart
+	8) empty cart
+	9) checkout cart
+	10) upgrade customer status
+	11) Add amount to wallet
+	12) back
+
+12
+
+Happy Shopping 
+	Bye arjun!!!
+1) Sign up
+2) Log in
+3) Back
+
+3
+
+WELCOME TO FLIPZON
+	1) Enter as Admin
+	2) Explore the Product Catalog
+	3) Show Available Deals
+	4) Enter as Customer
+	5) Exit the Application
+
+5
+Thanking You Visit again
+~ Happy Shopping !!!,
+ 
+
+Process finished with exit code 0
