@@ -3,7 +3,7 @@ package AP_Endsem_Preparation;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Lec12_Exception_Handling {
+public class Lec12_13_Exception_Handling {
     public static void main(String[] args) {
 
     }

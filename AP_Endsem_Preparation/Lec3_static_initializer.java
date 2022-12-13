@@ -2,7 +2,7 @@ package AP_Endsem_Preparation;
 
 public class Lec3_static_initializer {
     public static void main(String[] args) {
-        System.out.println(Test.i);
+        System.out.println(test.i);
     }
     public void test(){
         System.out.println();

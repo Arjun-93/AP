@@ -2,11 +2,11 @@ package AP_Endsem_Preparation;
 
 public class Lec_static_initializer {
     public static void main(String[] args) {
-        System.out.println(Test.i);
+        System.out.println(test.i);
     }
 }
 
-class Test{
+class test {
     static int i;
     static{
         i = 10;
